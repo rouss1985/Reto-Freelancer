@@ -1,0 +1,341 @@
+ /*En este elemento se le estan quitando los margenes al body*/
+body{
+  margin:0;
+  margin-top: 0;
+  }
+/*Aquí se le estan dando estilos a los elementos del header */
+.head{
+    font-family: Lato;
+    font-weight: 700;
+    border: none;
+    background: #2c3e50;
+    position: fixed;
+    width: 100%;
+    height: 110px;
+    z-index: 9;
+}
+.name{
+  color: #fff;
+  margin-left: 114px;
+  margin-top: 33px;
+}
+.apartado{
+  color: #fff;
+}
+.menu{
+  float: right;
+  width: 30%;
+}
+.namePage{
+  float: left;
+  left: 20px;
+  top:10px;
+}
+.apartado{
+display: inline;
+padding: 10px;
+}
+.menus{
+  margin-top: 42px;
+}
+/*Aquí se le estan dando estilos a los elementos de la sección hero*/
+.hero{
+  background: #18bc9c;
+  width: 100%;
+  height: 800px;
+  text-align: center;
+}
+.image-hero{
+  margin-top: 200px;
+}
+.tittle-hero{
+  font-family: Lato;
+  font-size: 90px;
+  color: #fff;
+  margin-top: 22px;
+  margin-bottom: 17px;
+}
+.lines{
+  margin-bottom: 10px;
+}
+.text-hero{
+  color:#fff;
+  font-size: 30px;
+  margin-top: 26px;
+}
+.portafolio{
+  width: 100%;
+  height: 709px;
+  background: #fff;
+  text-align: center;
+}
+.textPortafolio{
+  font-size: 50px;
+  font-family:Lato;
+  margin-top: 57px;
+}
+.lineStar{
+  margin-bottom: 0px;
+}
+/*Aquí se le estan dando estilos a los elementos de la sección de portafolio */
+.imagenPortafolio {
+    width: 92%;
+    height: auto;
+}
+.containerPortafolio{
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.imagenesPortafolio{
+  float: left;
+  width: 33%;
+  margin-bottom:31px;
+}
+/*Aquí se le estan dando estilos a los elementos de la sección About*/
+.nosotros{
+  background: #18bc9c;
+  width: 100%;
+  height:568px;
+  text-align: center;
+}
+.acerca{
+  font: Lato;
+  color:#fff;
+  font-size: 50px;
+  margin-bottom: 7px;
+  padding-top: 94px;
+}
+.containerAbout{
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.parraf{
+  width: 44%;
+  height: 40px;
+  float: left;
+  margin: 15px;
+}
+.textAbout{
+  font: Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-size: 22px;
+  color:#fff;
+  text-align: justify;
+}
+.containerParraf{
+  max-width: 767px;
+  margin: 0 auto;
+}
+.boton{
+  background: #18bc9c;
+  width: 210px;
+  height: 57px;
+  border-radius: 5px;
+  margin-top: 145px;
+  border-color: #fff;
+}
+.textBoton{
+  color:#fff;
+  font-size: 18px;
+}
+/*Aquí se le estan dando estilos a los elementos de la sección donde esta el fomrulario */
+.contact{
+  background: #FFF;
+  width: 100%
+  height:1000px;
+  text-align: center;
+}
+.textContact{
+  font-family: Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-size: 53px;
+  margin-top: 68px;
+  margin-bottom: 3px;
+}
+.lineStar{
+margin-bottom: 23px;
+}
+/*Aquí se le estan dando estilos a los elementos de la sección del footer */
+.footer{
+  background: #2c3e50;
+  width: 100%;
+  height: 408px;
+}
+.ubicacion{
+  float: left;
+  width: 30%;
+  height: 50px;
+}
+.titleFooter{
+  font: Montserrat,
+  font-size: 20px;
+  color: #fff;
+}
+.title3Footer{
+  font-family: Montserrat,
+  font-size: 12px;
+  color: #fff;
+}
+.finalFooter{
+  text-align: center;
+  margin-top: 160px;
+}
+.SocialMedia{
+  float: left;
+}
+.containerFooter>div {
+    width: 30%;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+.containerFooter {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+/*Aquí se le estan dando estilos a cada elemento de la sección del formulario */
+textarea#msg {
+    border: 0;
+    border-bottom: 1px solid;
+}
+input{
+  font-size: 1.5em;
+  position: relative;
+  z-index: 1;
+  height: 73px;
+  padding-right: 0;
+  padding-left: 0;
+  resize: none;
+  border: none;
+  border-radius: 0;
+  background: 0 0;
+  box-shadow: none!important;
+  touch-action: manipulation;
+  border: 0px;
+  border-bottom: 1px solid #eee;
+  outline: none;
+  padding-bottom: .5em;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Lato', sans-serif;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-image: none;
+    background-clip: padding-box;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+input .altura{
+  height: 80px;
+}
+form {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-bottom: 116px;
+}
+label {
+    float: left;
+}
+/*Aquí se le estan dando estilos a algunos botones del sitio */
+.button2{
+  text-align: left;
+}
+.boton2{
+  border-color: #18bc9c;
+  background-color: #18bc9c;
+  margin-top: 55px;
+  width: 75px;
+  height: 51px;
+  border-radius: 6px;
+  color:#fff;
+  font-size: 20px;
+}
+.redess{
+  text-align: center;
+  color: #fff;
+  margin: 9px;
+}
+.titleFooter{
+  font-size: 28px;
+}
+.infoGeneral{
+  margin: 17px;
+}
+/*Aquí se le esta dando estilo al elemento de la estrella entre dos lineas */
+hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+hr.star {
+    max-width: 250px;
+    margin: 25px auto 30px;
+    padding: 0;
+    text-align: center;
+    border: none;
+    border-top: solid 5px;
+    border-color: #2c3e50;
+}
+ hr.star:after {
+    font-family: FontAwesome;
+    font-size: 2em;
+    position: relative;
+    top: -0.6em;
+    display: inline-block;
+    padding: 0 .25em;
+    content: '\f005';
+    color: #2c3e50;
+    background-color: #fff;
+}
+hr.star-verde {
+    max-width: 250px;
+    margin: 25px auto 30px;
+    padding: 0;
+    text-align: center;
+    border: none;
+    border-top: solid 5px;
+    border-color: #fff;
+}
+hr.star-verde:after {
+   font-family: FontAwesome;
+   font-size: 2em;
+   position: relative;
+   top: -0.6em;
+   display: inline-block;
+   padding: 0 .25em;
+   content: '\f005';
+   color: #fff;
+   background-color: #18bc9c;
+}
+/*Aquí se le estan dando estilos a los iconos de las redes sociales del footer */
+.redess i {
+    font-size: 20px;
+    line-height: 45px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+.redess i:hover {
+    color: #18bc9c;
+    border: solid 2px #fff;
+    background: #fff;
+}
+/*Aquí se le estan dando estilos a algunos elementos de la sección del footer */
+.finalFooter{
+  position: relative;
+  margin-left: 371px;
+  margin-top: 148px;
+}
+.derechos{
+  text-align: center;
+  color:#fff;
+  font-size: 18px;
+}
