@@ -4,7 +4,7 @@ Tecnologías utilizadas: HTML, CSS, Grilla.
 
 Para que empresa fué desarrollado: Laboratoria.
 
-![Freelancer](https://rouss1985.github.io/Reto-Freelancer/assets/images/Freelancerok.png) 
+![Freelancer](https://rouss1985.github.io/Reto-Freelancer/assets/images/Freelancerok.png)
 
 Estructura del proyecto:
 
