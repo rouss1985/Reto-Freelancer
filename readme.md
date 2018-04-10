@@ -3,7 +3,8 @@ Descripción del proyecto:Proyecto en el cúal se maquetó un sitio web responsi
 Tecnologías utilizadas: HTML, CSS, Grilla.
 
 Para que empresa fué desarrollado: Laboratoria.
- 
+
+![Freelancer](https://rouss1985.github.io/Reto-Freelancer/assets/images/Freelancerok.png) 
 
 Estructura del proyecto:
 
