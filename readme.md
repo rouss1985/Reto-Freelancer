@@ -1,6 +1,9 @@
-Link de Github Pages:  https://rouss1985.github.io/Reto-Freelancer/
+Titulo: Reto-Freelancer
+Descripción del proyecto:Proyecto en el cúal se maquetó un sitio web responsive, solo con css y html.
+Tecnologías utilizadas: HTML, CSS, Grilla.
+Para que empresa fué desarrollado: Laboratoria.
 
-MAQUETADO DE SITIO FREELANCER:
+Estructura del proyecto:
 
 1.-El proyecto se encuentra en una carpeta general que se llama Reto Freelancer y dentro de él existen dos carpetas una de Assets y una de CSS.
 
