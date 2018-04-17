@@ -1,4 +1,5 @@
-Titulo: Reto-Freelancer
+# Reto-Freelancer
+
 Descripción del proyecto:Proyecto en el cúal se maquetó un sitio web responsive, solo con css y html.
 Tecnologías utilizadas: HTML, CSS, Grilla.
 
